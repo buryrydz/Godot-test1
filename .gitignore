@@ -3,7 +3,7 @@
 .import/
 export.cfg
 export_presets.cfg
-addons/
+addons/github-integration
 
 # Mono-specific ignores
 .mono/
